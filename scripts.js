@@ -1,6 +1,5 @@
 const name=prompt("Qual'è il tuo nome?");
 console.log("il nome dell'utente è:", name);
-console.log("nameModificabile");
 const surname=prompt("Qual'è il tuo cognome?");
 console.log("il cognome dell'utente è:", surname);
 const color=prompt("Qual'è il tuo colore preferito?");
